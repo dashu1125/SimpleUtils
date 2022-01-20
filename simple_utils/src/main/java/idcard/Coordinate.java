@@ -2,6 +2,7 @@ package idcard;
 
 public class Coordinate {
 
+    //哈哈哈哈啊
     private String x;
 
     private String y;
